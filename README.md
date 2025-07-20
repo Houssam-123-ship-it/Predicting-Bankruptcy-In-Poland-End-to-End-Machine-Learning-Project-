@@ -68,7 +68,7 @@ Install the Python libraries , see all of them on notebooks
 
 ## 📊 Data Source
 
-The dataset contains financial ratios and metrics for Polish companies, labeled with whether they went bankrupt. The data was curated by a team of economists to support bankruptcy risk research. See the Metadata inside the dataset for more informations, data/Data Dictionary.ipynb for feature infos 
+The dataset contains financial ratios and metrics for Polish companies, labeled with whether they went bankrupt. The data was curated by a team of economists to support bankruptcy risk research. See the Metadata inside the dataset for more informations, **data/Data Dictionary.ipynb** for feature infos 
 
 ---
 
